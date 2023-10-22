@@ -8,7 +8,7 @@
 * Para colocar em prática meu aprendizado em React Native, recriei a aplicação instgram em uma instância menor, mas com tipos de usuários um pouco diferentes. Todos os usuários são do mundo de Harry Potter, o que deixa o aplicativo Instagram ainda mais bacana.😁
 
 ## Technologies 💻
-* React Native (JSX, StyleSheet, JavaScript)
+* React Native (Expo-cli)
 
 ## Contact me 🔗
 * Email: gabriel.avilaa27@gmail.com
